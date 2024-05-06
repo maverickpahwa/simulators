@@ -1,5 +1,3 @@
 # simulators
 
-### Each of our Simulation happens between the following:
-##### Demographic population
-##### Devices
+### We create scaled simulations between Demography and Devices
